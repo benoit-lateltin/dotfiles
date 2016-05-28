@@ -102,5 +102,53 @@ brew install vbindiff
 brew install webkit2png
 brew install zopfli
 
+brew install hr
+brew install htop-osx
+brew install httpie
+brew install wget
+brew install ansible
+brew install freetype
+brew install imagemagick
+brew install node
+brew install readline
+brew install youtube-dl
+brew install dos2unix
+brew install chromedriver
+brew install ffmpeg
+brew install lame
+brew install python
+
+# Brew GUI Mac applications
+brew install caskroom/cask/brew-cask
+brew cask install alfred
+brew cask install postgres
+brew cask install calibre
+brew cask install chitchat
+brew cask install dropbox
+brew cask install google-chrome
+brew cask install iterm2
+brew cask install visualvm
+brew cask install macdown
+brew cask install intellij-idea
+brew cask install hipchat
+brew cask install spotify
+brew cask install the-unarchiver
+brew cask install virtualbox
+brew cask install vlc
+brew cask install 1password
+brew cask install appdelete
+brew cask install postman
+brew cask install cyberduck
+brew cask install disk-inventory-x
+brew cask install firefox
+brew cask install github-desktop
+brew cask install macs-fan-control
+brew cask install microsoft-office
+brew cask install stremio
+brew cask install sublime-text
+brew cask install textmate
+
+gem install lolcommits
+
 # Remove outdated versions from the cellar.
 brew cleanup
