@@ -109,6 +109,9 @@ brew install ffmpeg
 brew install lame
 brew install python
 
+brew install maven
+brew install kubectl
+
 # Brew GUI Mac applications
 brew install caskroom/cask/brew-cask
 brew cask install alfred
@@ -122,6 +125,7 @@ brew cask install slack
 brew cask install spotify
 brew cask install the-unarchiver
 brew cask install vlc
+brew cask install docker
 brew cask install appdelete
 brew cask install postman
 brew cask install cyberduck
