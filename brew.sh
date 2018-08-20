@@ -114,19 +114,14 @@ brew install caskroom/cask/brew-cask
 brew cask install alfred
 brew cask install postgres
 brew cask install calibre
-brew cask install chitchat
 brew cask install dropbox
 brew cask install google-chrome
 brew cask install iterm2
 brew cask install visualvm
-brew cask install macdown
-brew cask install intellij-idea
-brew cask install hipchat
+brew cask install slack
 brew cask install spotify
 brew cask install the-unarchiver
-brew cask install virtualbox
 brew cask install vlc
-brew cask install 1password
 brew cask install appdelete
 brew cask install postman
 brew cask install cyberduck
@@ -135,7 +130,6 @@ brew cask install firefox
 brew cask install github-desktop
 brew cask install macs-fan-control
 brew cask install microsoft-office
-brew cask install stremio
 brew cask install sublime-text
 brew cask install textmate
 
