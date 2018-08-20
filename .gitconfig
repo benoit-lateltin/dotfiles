@@ -79,6 +79,14 @@
 		fi \
 	}; f"
 
+    lol = "log --graph --decorate --pretty=oneline --abbrev-commit"
+    lola = "log --graph --decorate --pretty=oneline --abbrev-commit --all"
+    unstage = "reset HEAD --"
+    co = "checkout"
+    ci = "commit"
+    cp = "cherry-pick"
+    pr = "pull --rebase"
+
 [apply]
 
 	# Detect whitespace errors when applying a patch
@@ -106,6 +114,8 @@
 	# Speed up commands involving untracked files such as `git status`.
 	# https://git-scm.com/docs/git-update-index#_untracked_cache
 	untrackedCache = true
+
+	editor = nano
 
 [color]
 
@@ -160,7 +170,8 @@
 [push]
 
 	# https://git-scm.com/docs/git-config#git-config-pushdefault
-	default = simple
+	#default = simple
+	default = upstream
 	# Make `git push` push relevant annotated tags when pushing branches out.
 	followTags = true
 
