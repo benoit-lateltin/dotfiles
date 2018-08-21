@@ -111,6 +111,8 @@ brew install python
 
 brew install maven
 brew install kubectl
+brew install go
+brew install glide
 
 # Brew GUI Mac applications
 brew install caskroom/cask/brew-cask
