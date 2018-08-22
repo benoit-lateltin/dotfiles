@@ -15,3 +15,6 @@ Thumbs.db
 
 *.iml
 .idea
+
+# for security reason
+.extra
