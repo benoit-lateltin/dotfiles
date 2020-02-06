@@ -53,29 +53,29 @@ brew install sfnt2woff-zopfli
 brew install woff2
 
 # Install some CTF tools; see https://github.com/ctfs/write-ups.
-brew install bfg
-brew install binutils
-brew install binwalk
-brew install cifer
-brew install dex2jar
-brew install dns2tcp
-brew install fcrackzip
-brew install foremost
-brew install hashpump
-brew install hydra
-brew install john
-brew install knock
-brew install netpbm
-brew install nmap
-brew install pngcheck
-brew install socat
-brew install sqlmap
-brew install tcpflow
-brew install tcpreplay
-brew install tcptrace
-brew install ucspi-tcp # `tcpserver` etc.
-brew install xpdf
-brew install xz
+#brew install bfg
+#brew install binutils
+#brew install binwalk
+#brew install cifer
+#brew install dex2jar
+#brew install dns2tcp
+#brew install fcrackzip
+#brew install foremost
+#brew install hashpump
+#brew install hydra
+#brew install john
+#brew install knock
+#brew install netpbm
+#brew install nmap
+#brew install pngcheck
+#brew install socat
+#brew install sqlmap
+#brew install tcpflow
+#brew install tcpreplay
+#brew install tcptrace
+#brew install ucspi-tcp # `tcpserver` etc.
+#brew install xpdf
+#brew install xz
 
 # Install other useful binaries.
 brew install ack
@@ -118,31 +118,31 @@ brew install go
 brew install glide
 
 # Brew GUI Mac applications
-brew install caskroom/cask/brew-cask
-brew cask install alfred
-brew cask install postgres
-brew cask install calibre
-brew cask install dropbox
-brew cask install google-chrome
-brew cask install iterm2
-brew cask install visualvm
-brew cask install slack
-brew cask install spotify
-brew cask install the-unarchiver
-brew cask install vlc
-brew cask install docker
-brew cask install appdelete
-brew cask install postman
-brew cask install cyberduck
-brew cask install disk-inventory-x
-brew cask install firefox
-brew cask install github-desktop
-brew cask install macs-fan-control
-brew cask install microsoft-office
-brew cask install sublime-text
-brew cask install textmate
+#brew install caskroom/cask/brew-cask
+#brew cask install alfred
+#brew cask install postgres
+#brew cask install calibre
+#brew cask install dropbox
+#brew cask install google-chrome
+#brew cask install iterm2
+#brew cask install visualvm
+#brew cask install slack
+#brew cask install spotify
+#brew cask install the-unarchiver
+#brew cask install vlc
+#brew cask install docker
+#brew cask install appdelete
+#brew cask install postman
+#brew cask install cyberduck
+#brew cask install disk-inventory-x
+#brew cask install firefox
+#brew cask install github-desktop
+#brew cask install macs-fan-control
+#brew cask install microsoft-office
+#brew cask install sublime-text
+#brew cask install textmate
 
-gem install lolcommits
+#gem install lolcommits
 
 # Remove outdated versions from the cellar.
 brew cleanup
