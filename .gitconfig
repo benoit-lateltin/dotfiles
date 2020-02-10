@@ -173,7 +173,7 @@
 
 	# https://git-scm.com/docs/git-config#git-config-pushdefault
 	#default = simple
-	default = upstream
+	default = current # allows git push -u to create remote branch tracking local one
 	# Make `git push` push relevant annotated tags when pushing branches out.
 	followTags = true
 
